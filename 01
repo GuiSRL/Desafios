@@ -1,0 +1,8 @@
+def apresentacao():
+    nome = "Jonathan"
+    idade = 18
+    cidade = "Santo André"
+    
+    print(f"Olá! Meu nome é {nome}. Eu tenho {idade} anos e moro em {cidade}.")
+
+apresentacao()
